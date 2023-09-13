@@ -1,6 +1,6 @@
 # Profundización Back-end
 
-## Topics
+## Topics :memo:
 
 :open_file_folder: This repository contains the topics on Back-end elements and basic concepts (Unit-01):
 
@@ -11,7 +11,7 @@
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
-## About
+## About :octocat:
 
 :alien: **Author:** presentations were made by Norbey Danilo Muñoz Cañón.
 
