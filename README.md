@@ -11,6 +11,10 @@
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
+## Exercises :notebook:
+
+This unit does not include exercises.
+
 ## About :octocat:
 
 :alien: **Author:** presentations were made by Norbey Danilo Muñoz Cañón.
